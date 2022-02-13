@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Abid
+metadata:
+  name: abid-sample
+  namespace: system
+spec:
+  size: 1
